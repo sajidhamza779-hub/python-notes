@@ -1,5 +1,7 @@
 #11 november 2026
 
+#CONDITIONALS
+
 #if(to ask question)(check a condition)
 #elif(to handle multiple conditions)
 #<(less than)>(greater than)==(equals to)!=(not equals to)
