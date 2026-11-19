@@ -1,4 +1,7 @@
 #Date 24 octuber 2026
+
+#FUNCTIONS AND VARIABLES
+
 #print function(shows on screen)
 
 print("hello, world")
